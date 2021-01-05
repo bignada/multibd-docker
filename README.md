@@ -3,7 +3,7 @@ This repository contains multiple database engines, such as SQL Server Express 2
 
 Clone the repo:
 ```sh
-git clone https://github.com/ycharmx/multibd-docker/
+git clone https://github.com/qsds/multibd-docker/
 ```
 
 Build the image:
